@@ -50,8 +50,8 @@ const eyuel = {
 ## GitHub Stats  
 
 <p align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=EyuelWoldehanna&show_icons=true&theme=radical" />
-  <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=EyuelWoldehanna&theme=radical" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=EyuelWoldeh&show_icons=true&theme=radical" />
+  <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=EyuelWoldeh&theme=radical" />
 </p>
 
 ---
