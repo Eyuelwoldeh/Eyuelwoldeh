@@ -10,11 +10,11 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> The code behind the code...  
 
-```javascript
+```java
 const eyuel = {  
   specialty: "Backend Architect & Algorithmic Finance Explorer",  
   interests: ["High-Frequency Trading", "Distributed Systems", "Real Time Data Processing", "Football", "Geopolitics"], 
-  currentlyLearning: ["Quantitative Finance Models", "Cloud Native Architectures", "Event Driven Systems", Could Storage],  
+  currentlyLearning: ["Quantitative Finance Models", "Cloud Native Architectures", "Event Driven Systems", "Could Storage"],  
   funFact: "When I’m not engineering systems, I’m reverse engineering market trends."  
 } 
 ```
