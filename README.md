@@ -9,12 +9,12 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> The code behind the code...  
 
 ```javascript
-const eyuel = {
-  pronouns: "he" | "him",
-  code: [Java, JavaScript, Python, C++, C#],
-  tools: [Spring Boot, React, TailwindCSS, MongoDB, AWS S3, Node.js],
-  interests: ["Machine Learning", "Finance", "Trading Algorithms", "Backend Optimization"]
-}
+const eyuel = {  
+  specialty: "Backend Systems & AI-driven Finance",  
+  interests: ["Machine Learning", "Trading Algorithms", "Scalable APIs"],  
+  currentlyLearning: ["Algorithmic Trading", "Cloud Infrastructure", "AI for Financial Markets"],  
+  funFact: "If I’m not coding, I’m decoding financial markets."  
+} 
 ```
 
 ### **Current Work**  
