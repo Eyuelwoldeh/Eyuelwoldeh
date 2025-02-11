@@ -17,12 +17,12 @@ const eyuel = {
 }
 ```
 
-### 🚀 **Current Work**  
+### **Current Work**  
 - 💡 **Exploring AI-driven finance tools and real-time trading systems**  
 - 🔍 **Building TradeSphere**, a **global commerce platform** with real-time messaging & analytics  
 - 🛠 **Tech Stack:** Python, Java, Spring Boot, React, MongoDB, AWS 
 
-### ⚡ **Fun Fact**  
+### **Fun Fact**  
 *If I’m not coding, I’m probably keeping up with financial markets or exploring new tech trends!*  
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  
