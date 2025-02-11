@@ -1,5 +1,8 @@
 <h1 align="center">Eyuel Woldehanna</h1>  
-<img align='right' src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="230">
+<div align="center">
+  <h1>Eyuel Woldehanna</h1>
+  <img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="180">
+</div>
 <p align="center"><em>Software Engineer | Finance & AI Enthusiast | Backend Architect</em></p>  
 
 ---
