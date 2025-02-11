@@ -10,7 +10,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> The code behind the code...  
 
-```python
+```javascript
 eyuel = {  
   specialty: "Backend Architect & Algorithmic Finance Explorer",  
   interests: ["High-Frequency Trading", "Distributed Systems", "Real Time Data Processing", "Football", "Geopolitics"], 
