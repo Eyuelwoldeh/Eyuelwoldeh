@@ -10,8 +10,8 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> The code behind the code...  
 
-```java
-const eyuel = {  
+```python
+eyuel = {  
   specialty: "Backend Architect & Algorithmic Finance Explorer",  
   interests: ["High-Frequency Trading", "Distributed Systems", "Real Time Data Processing", "Football", "Geopolitics"], 
   currentlyLearning: ["Quantitative Finance Models", "Cloud Native Architectures", "Event Driven Systems", "Could Storage"],  
