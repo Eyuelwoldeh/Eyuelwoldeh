@@ -12,10 +12,10 @@
 
 ```javascript
 const eyuel = {  
-  specialty: "Backend Systems & AI-driven Finance",  
-  interests: ["Machine Learning", "Trading Algorithms", "Scalable APIs"],  
-  currentlyLearning: ["Algorithmic Trading", "Cloud Infrastructure", "AI for Financial Markets"],  
-  funFact: "If I’m not coding, I’m decoding financial markets."  
+  specialty: "Backend Architect & Algorithmic Finance Explorer",  
+  interests: ["High-Frequency Trading", "Distributed Systems", "Real Time Data Processing", "Football", "Geopolitics"], 
+  currentlyLearning: ["Quantitative Finance Models", "Cloud Native Architectures", "Event Driven Systems", Could Storage],  
+  funFact: "When I’m not engineering systems, I’m reverse engineering market trends."  
 } 
 ```
 
