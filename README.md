@@ -4,26 +4,22 @@
 </div>
 <p align="center"><em>Software Engineer | Finance & AI Enthusiast | Backend Architect</em></p>  
 
-
 ## The Architect of Code & Capital  
 
 Ever wondered what happens when **finance**, **AI**, and **scalable engineering** collide?  
-
 I build systems that don't just work—they predict, optimize, and scale. From **trading algorithms** to **real estate platforms**, I create tech that **moves markets** and **powers decisions**.  
-
 But enough buzzwords. Let’s talk about what I actually do.  
-
 
 ## The Code Behind the Code  
 
-```Javascript
+***javascript
 const eyuel = {  
   specialty: "Backend Systems & AI-driven Finance",  
   interests: ["Machine Learning", "Trading Algorithms", "Scalable APIs"],  
   currentlyLearning: ["Algorithmic Trading", "Cloud Infrastructure", "AI for Financial Markets"],  
   funFact: "If I’m not coding, I’m decoding financial markets."  
 }  
-```
+***
 
 ## What I’m Working On  
 
@@ -39,7 +35,7 @@ const eyuel = {
 ## The Tech I Use  
 
 <p align="center">
-  <div style="display: flex; justify-content: space-between; width: 80%;">
+  <div style="display: flex; justify-content: space-between; width: 80%; align-items: center;">
     <div style="text-align: center; margin: 0 10px;">
       <strong>Languages & Frameworks</strong><br>
       <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
@@ -64,13 +60,11 @@ const eyuel = {
   </div>
 </p>
 
-
 ## Favorite Reads  
 
 - **"Designing Data-Intensive Applications"** – A MUST for building scalable, high-performance systems.  
 - **"The Art of Scalability"** – How to build for the next billion users.  
 - **"Quantitative Trading"** – Turning market noise into opportunity.  
-
 
 ## Let’s Build Something  
 
