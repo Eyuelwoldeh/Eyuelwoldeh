@@ -1,9 +1,10 @@
 <h1 align="center">Eyuel Woldehanna</h1>  
+<img align='right' src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="230">
 <p align="center"><em>Software Engineer | Finance & AI Enthusiast | Backend Architect</em></p>  
 
 ---
 
-## 🧩 The Architect of Code & Capital  
+## The Architect of Code & Capital  
 
 Ever wondered what happens when **finance**, **AI**, and **scalable engineering** collide?  
 
@@ -13,7 +14,20 @@ But enough buzzwords. Let’s talk about what I actually do.
 
 ---
 
-## 🚀 What I’m Working On  
+## The Code Behind the Code  
+
+```Javascript
+const eyuel = {  
+  specialty: "Backend Systems & AI-driven Finance",  
+  interests: ["Machine Learning", "Trading Algorithms", "Scalable APIs"],  
+  currentlyLearning: ["Algorithmic Trading", "Cloud Infrastructure", "AI for Financial Markets"],  
+  funFact: "If I’m not coding, I’m decoding financial markets."  
+}  
+```
+
+---
+
+## What I’m Working On  
 
 - **Anvil Finance** → A financial dashboard for real-time market tracking & budget automation.  
   **Stack:** Python, Dash Plotly, Flask, SQL, AWS  
@@ -26,7 +40,7 @@ But enough buzzwords. Let’s talk about what I actually do.
 
 ---
 
-## 🛠 The Tech I Use  
+## The Tech I Use  
 
 ### **Languages & Frameworks**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
@@ -46,28 +60,15 @@ But enough buzzwords. Let’s talk about what I actually do.
 
 ---
 
-## 📚 The Code Behind the Code  
+## Favorite Reads  
 
-```Javascript
-const eyuel = {  
-  specialty: "Backend Systems & AI-driven Finance",  
-  interests: ["Machine Learning", "Trading Algorithms", "Scalable APIs"],  
-  currentlyLearning: ["Algorithmic Trading", "Cloud Infrastructure", "AI for Financial Markets"],  
-  funFact: "If I’m not coding, I’m decoding financial markets."  
-}  
-``` 
-
----
-
-## 📖 Favorite Reads  
-
-- **"Designing Data-Intensive Applications"** – The bible for scalable, high-performance systems.  
+- **"Designing Data-Intensive Applications"** – A MUST for building scalable, high-performance systems.  
 - **"The Art of Scalability"** – How to build for the next billion users.  
 - **"Quantitative Trading"** – Turning market noise into opportunity.  
 
 ---
 
-## 🌎 Let’s Build Something  
+## Let’s Build Something  
 
 If you’re a recruiter, investor, or just someone who enjoys **building cool things that matter**, let’s connect.  
 
