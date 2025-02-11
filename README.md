@@ -39,22 +39,29 @@ const eyuel = {
 ## The Tech I Use  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
+  <div style="display: flex; justify-content: space-between; width: 80%;">
+    <div style="text-align: center; margin: 0 10px;">
+      <strong>Languages & Frameworks</strong><br>
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white">
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+      <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white">
+    </div>
+    
+    <div style="text-align: center; margin: 0 10px;">
+      <strong>Databases & Cloud</strong><br>
+      <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
+      <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
+      <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white">
+    </div>
+    
+    <div style="text-align: center; margin: 0 10px;">
+      <strong>Other Tools</strong><br>
+      <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white">
+      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
+      <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
+    </div>
+  </div>
 </p>
 
 
