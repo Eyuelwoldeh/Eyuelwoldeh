@@ -20,7 +20,6 @@ const eyuel = {
 ```
 
 ### **Current Work**  
-- **Exploring AI-driven finance tools and real-time trading systems**  
 - **Building TradeSphere**, a **global commerce platform** with real-time messaging & analytics  
 - **Tech Stack:** Python, Java, Spring Boot, React, MongoDB, AWS 
 
