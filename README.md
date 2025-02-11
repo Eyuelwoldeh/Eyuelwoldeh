@@ -59,7 +59,7 @@ const eyuel = {
 ## Let's Connect  
 
 [![LinkedIn: EyuelWoldehanna](https://img.shields.io/badge/-EyuelWoldehanna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/woldehanna/)](https://www.linkedin.com/in/woldehanna/)  
-[![GitHub: EyuelWoldehanna](https://img.shields.io/github/followers/EyuelWoldehanna?label=Follow&style=social)](https://github.com/EyuelWoldehanna)  
+[![GitHub: EyuelWoldehanna](https://img.shields.io/github/followers/EyuelWoldehanna?label=Follow&style=social)](https://github.com/EyuelWoldeh)  
 
 Always looking to collaborate on projects that push boundaries—reach out and let's build something great.  
 
