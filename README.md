@@ -1,5 +1,5 @@
 <h2> Hey there, I'm Eyuel! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="230" style="border-radius: 10px; border: 3px solid #ccc; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
 
 <p><em>Aspiring Software Engineer | Finance & AI Enthusiast | Problem Solver</em></p>
 
